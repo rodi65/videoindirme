@@ -105,7 +105,7 @@ object InstanceManager {
         "https://cobalt-backend.canine.tools",
         "https://dwnld.nichinichi.moe",
         "https://co.eepy.today",
-        "https://capi.oodu.uk"
+        "https://cobalt-api-production-89fa.up.railway.app"
     )
     private const val PREFS = "videoindirme_prefs"
     private const val KEY_CUSTOM = "custom_instance"
