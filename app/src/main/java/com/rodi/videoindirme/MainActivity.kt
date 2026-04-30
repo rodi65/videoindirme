@@ -101,7 +101,7 @@ class MainActivity : ComponentActivity() {
 
 object InstanceManager {
     val DEFAULT_INSTANCES = listOf(
-        "https://cobalt-api-production-89fa.up.railway.app/",
+        "https://cobalt-api-production-89fa.up.railway.app",
         "https://cobalt-backend.canine.tools",
         "https://dwnld.nichinichi.moe",
         "https://co.eepy.today",
